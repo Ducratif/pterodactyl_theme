@@ -1,2 +1,4 @@
 # pterodactyl_theme
-Theme Pterodactyl By Ducratif
+
+VPS HOME
+/var/www/pterodactyl/resources/scripts/assets/custom.css
